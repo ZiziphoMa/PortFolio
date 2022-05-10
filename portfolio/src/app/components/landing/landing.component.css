@@ -183,7 +183,7 @@ body{
     font-size:6rem;
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: black;
-    -webkit-animation: fill 0.5s infinite alternate;
+    /* -webkit-animation: fill 0.5s infinite alternate; */
     background:black;
     width:100vw;
     overflow-x:hidden;
