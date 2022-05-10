@@ -6,7 +6,7 @@
 	}
 body{
 	
-	background-color:hsl(22, 27%, 92%);
+	background-color:hsl(22, 68%, 77%);
 	position:relative;
 	display: grid;
 	height: 100%;
@@ -174,4 +174,4 @@ h2{
 
 .progress-line.mysql span::after{
 	content: "50%";
-}
+} 
