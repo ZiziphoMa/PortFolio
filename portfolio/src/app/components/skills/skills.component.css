@@ -4,19 +4,23 @@
 	padding: 0;
 	box-sizing: border-box;
 	}
+
+	
+
+	
 body{
 	
-	background-color:hsl(22, 68%, 77%);
+	background-color:#ffd1b3;
 	position:relative;
 	display: grid;
 	height: 100%;
 	place-items:center;
 	justify-content: center;
-	margin-top:5rem;
+	margin-top:1rem;
     
     width: 90rem;
 
-}
+} 
 
 
 h2{
@@ -79,7 +83,7 @@ h2{
 .bar .progress-line span{
 	height: 100%;
 	width: 80%;
-	background: #ff944d;
+	background: #ffd1b3;
 	position: absolute;
 	border-radius: 10px;
 	transform: scaleX(0);

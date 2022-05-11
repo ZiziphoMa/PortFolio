@@ -1,10 +1,10 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
-  }
-  body {
+  } */
+  /* body {
     font-family: "Baloo 2", cursive;
-  }
+  } */
   .banner-text {
     width: 100%;
     position: absolute;
@@ -34,9 +34,9 @@
     
     background: #ff944d;
     background: -webkit-linear-gradient(to right, #ff944d, #ff944d);
-	background-color:#ffd1b3;
+	  background-color:#ffd1b3;
     background: linear-gradient(to right, #FFC7A2, );
-    width: 100%;
+    width: 200vh;
     height: 100vh;
   }
   
@@ -91,10 +91,10 @@
     animation-delay: 0s;
   }
   .box-area li:nth-child(6) {
-    left: 15%;
-    width: 110px;
-    height: 110px;
-    animation-delay: 3.5s;
+    left: 1%;
+    width: 10px;
+    height: 10px;
+    animation-delay: 10.5s;
   }
   @keyframes animate {
     0% {
@@ -183,7 +183,7 @@ body{
     font-size:6rem;
     -webkit-text-stroke: 1px white;
     -webkit-text-fill-color: black;
-    /* -webkit-animation: fill 0.5s infinite alternate; */
+    /* -webkit-animation: fill 0.5s infinite alternate;  */
     background:black;
     width:100vw;
     overflow-x:hidden;
